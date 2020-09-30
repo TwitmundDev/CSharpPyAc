@@ -1,0 +1,6 @@
+C:\Users\twitm\Desktop\Projet jeux moi ivann\MAIN\Jeux 3d\Story of izoris 3d\Assets\CSharAc\CSharAc\obj\Debug\CSharAc.csprojAssemblyReference.cache
+C:\Users\twitm\Desktop\Projet jeux moi ivann\MAIN\Jeux 3d\Story of izoris 3d\Assets\CSharAc\CSharAc\obj\Debug\CSharAc.csproj.CoreCompileInputs.cache
+C:\Users\twitm\Desktop\Projet jeux moi ivann\MAIN\Jeux 3d\Story of izoris 3d\Assets\CSharAc\CSharAc\bin\Debug\CSharAc.exe
+C:\Users\twitm\Desktop\Projet jeux moi ivann\MAIN\Jeux 3d\Story of izoris 3d\Assets\CSharAc\CSharAc\bin\Debug\CSharAc.pdb
+C:\Users\twitm\Desktop\Projet jeux moi ivann\MAIN\Jeux 3d\Story of izoris 3d\Assets\CSharAc\CSharAc\obj\Debug\CSharAc.exe
+C:\Users\twitm\Desktop\Projet jeux moi ivann\MAIN\Jeux 3d\Story of izoris 3d\Assets\CSharAc\CSharAc\obj\Debug\CSharAc.pdb
